@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "d295f4d7993619cd48f1a31ef3849625550faa4af67fc304de99d2e2c1a9fe50",
+  "generatedAtUtc": "2026-07-09T21:22:43.5676630Z",
+  "mode": "dist",
+  "appDisplayName": "flutter",
+  "bundleId": "com.prodyum.flutter",
+  "version": "1.0.0",
+  "buildNumber": "1",
+  "ipaFileName": "flutter-install.ipa",
+  "ipaSha256": "65019feeef04873db0d5c7c06ff28cb03f95ca79486bd4f4b035f6b3f0ba8c8c",
+  "manifestSha256": "fdb39786941a77bac1a55f5ce38fe0871222f4ed6fdc1b0dc85630b4e46a2f89",
+  "workflowRun": "https://github.com/prodyum/one-lane/actions/runs/29050923715",
+  "pagesUrl": "https://prodyum.github.io/flutter-installer/",
+  "manifestUrl": "https://prodyum.github.io/flutter-installer/manifest.plist",
+  "ipaUrl": "https://prodyum.github.io/flutter-installer/ipa/flutter-install.ipa"
+}
