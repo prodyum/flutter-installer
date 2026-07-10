@@ -1,14 +1,14 @@
 {
+  "appSlug": "flutter",
   "buildNumber": "1",
   "bundleId": "com.prodyum.flutter",
   "cacheSchemaVersion": "1",
-  "commitSha": "d094afa4edc17405983b2013be9aea3b029f725d",
+  "commitSha": "5d2a43d2166c8c4ac193e33a849aaec329a63574",
   "deviceHash": "75cf38476b465ffbd9a8d843a58c137e7ae80e063494373fbeb18f5cf8154bc0",
   "displayName": "flutter",
   "ipaType": "dist",
-  "sampleSlug": "flutter",
   "schemaVersion": 1,
-  "sourceFingerprint": "f2b59dfc0939e92640202005970782c78b92a01fc40ed93d9dce5a5fcf4a954c",
+  "sourceFingerprint": "4e17196ea038ef101ec311e869e6c9ba2b0ff7e8c9b7a68db63340c121b9d424",
   "version": "1.0.0",
   "xcodeVersion": "Xcode 26.5 Build version 17F42"
 }
